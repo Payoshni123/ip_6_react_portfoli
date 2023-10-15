@@ -10,20 +10,20 @@ const Home = () => {
       <div style={{ marginLeft: 100 }}>
         <ProfileInfo
           name={"GitHub"}
-          username={"FlaSH514"}
-          email={"amitbabaninayak@gmail.com"}
-          link={"https://github.com/"}
+          username={"dshreyash-108"}
+          email={"dhasadeshreyu12@gmail.com"}
+          link={"https://github.com/dshreyash-108"}
         />
         <ProfileInfo
           name={"Instagram"}
-          username={"amit"}
-          email={"amitbabaninayak@gmail.com"}
+          username={"up_on_words_108"}
+          email={"dhasadeshreyu12@gmail.com"}
           link={"https://instagram.com/"}
         />
         <ProfileInfo
           name={"Facebook"}
-          username={"Amit Nayak"}
-          email={"amitbabaninayak@gmail.com"}
+          username={"Shreyash Dhasade"}
+          email={"dhasadeshreyu12@gmail.com"}
           link={"https://facebook.com/"}
         />
       </div>
