@@ -1,5 +1,5 @@
 .hero-section {
-  background-image: url("./bg.jpg");
+  background-image: url("./photo-1614850523060-8da1d56ae167.jpeg");
   background-size: cover;
   background-position: center;
   color: #ffffff;
@@ -16,13 +16,13 @@
   font-size: 36px;
   font-weight: bold;
   margin-bottom: 20px;
-  color: #ffffff;
+  color: #0d0b0b;
 }
 
 .hero-subheading {
   font-size: 18px;
   margin-bottom: 30px;
-  color: #fdfdfd;
+  color: #121010;
 }
 
 .cta-button {
